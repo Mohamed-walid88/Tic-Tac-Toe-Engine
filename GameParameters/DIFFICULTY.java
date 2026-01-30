@@ -1,0 +1,3 @@
+public enum DIFFICULTY {
+    EASY, MEDIUM, IMPOSSIBLE
+}
