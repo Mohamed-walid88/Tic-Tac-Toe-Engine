@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2f396ea-6c4d-423f-838d-6af2f5f09866" name="Changes" comment="Adding the AI to the game and some Parameters!">
+    <list default="true" id="d2f396ea-6c4d-423f-838d-6af2f5f09866" name="Changes" comment="unneeded testing class removed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameParameters/StateChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameParameters/StateChecker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.ColorSchemeFont",
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -119,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769792747692</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="unneeded testing class removed">
+      <option name="closed" value="true" />
+      <created>1769793114757</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769793114757</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +136,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding the AI to the game and some Parameters!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding the AI to the game and some Parameters!" />
+    <MESSAGE value="unneeded testing class removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="unneeded testing class removed" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

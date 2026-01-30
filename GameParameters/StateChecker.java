@@ -1,6 +1,6 @@
 public class StateChecker {
 
-    public GameState getGameState(char[][] board, char Player1, char Player2) {
+    public GameState getGameState(char[][] board, char Player1) {
 
         // 1. Check Rows
         for (int i = 0; i < 3; i++) {
